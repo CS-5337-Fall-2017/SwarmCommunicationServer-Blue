@@ -10,8 +10,7 @@ var mongojs = require('mongojs');
 var rovers = require('./rovers');
 var utils = require('./utils');
 var enums = require('./enums');
-
-//JSON obj of a maptile. must be in ALL CAPS, as in enum value
+// // JSON obj of a maptile. must be in ALL CAPS, as in enum value
 //     {
 //         "x":12,
 //         "y":14,
